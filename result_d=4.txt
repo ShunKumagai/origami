@@ -1,0 +1,297 @@
+#d = 4
+  Component No. 0
+  representatives:  [ 0 14 19 27 63 85]
+  index of VG = 6
+  base: (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1], [2], [3]] [0 0 0 0] )
+  stratum: A_ 1 [0, 0, 0, 0]
+  T = [[0, 14, 27, 19], [63], [85]]
+  widths list = [4, 1, 1] 3
+  S = [[0, 85], [14, 19], [27, 63]]
+  widths list = [2, 2, 2] 3
+  TS = [[0, 85, 14], [19, 27, 63]]
+  widths list = [3, 3] 2
+  genus = 0
+  Wolfarht level = 4
+    representative No. 0
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1], [2], [3]] [0 0 0 0] )
+    representative No. 14
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 2, 3]] [0 0 0 0] )
+    representative No. 19
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 2, 3]] [1 1 1 1] )
+    representative No. 27
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 2], [1, 3]] [0 0 0 0] )
+    representative No. 63
+    (x,y,eps) = ( [[0, 1], [2, 3]] [[0, 2, 1, 3]] [0 0 0 0] )
+    representative No. 85
+    (x,y,eps) = ( [[0], [1], [2], [3]] [[0, 1, 2, 3]] [0 0 0 0] )
+ 
+ 
+ 
+  Component No. 1
+  representatives:  [ 1  3  8 20 37 43 48 75 76]
+  index of VG = 9
+  base: (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1], [2, 3]] [0 0 0 0] )
+  stratum: A_ 2 [0, 4]
+  T = [[1, 3, 20, 8], [37, 43, 48], [75, 76]]
+  widths list = [4, 3, 2] 3
+  S = [[1, 76], [3, 48], [8, 43], [20], [37, 75]]
+  widths list = [2, 2, 2, 1, 2] 5
+  TS = [[1, 75, 43], [3, 37, 76], [8, 48, 20]]
+  widths list = [3, 3, 3] 3
+  genus = 0
+  Wolfarht level = 12
+    representative No. 1
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1], [2, 3]] [0 0 0 0] )
+    representative No. 3
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 2, 3]] [0 0 0 0] )
+    representative No. 8
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 2, 3]] [0 1 1 1] )
+    representative No. 20
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 3, 2]] [0 0 0 0] )
+    representative No. 37
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1], [2], [3]] [0 0 0 0] )
+    representative No. 43
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1, 2, 3]] [0 0 0 0] )
+    representative No. 48
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1, 2, 3]] [0 1 1 1] )
+    representative No. 75
+    (x,y,eps) = ( [[0], [1], [2, 3]] [[0, 1, 2], [3]] [0 0 0 0] )
+    representative No. 76
+    (x,y,eps) = ( [[0], [1], [2, 3]] [[0, 1, 2, 3]] [0 0 0 0] )
+ 
+ 
+ 
+  Component No. 2
+  representatives:  [ 2 15 18 24 25 77]
+  index of VG = 6
+  base: (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1], [2, 3]] [0 0 1 0] )
+  stratum: Q_ 1 [-1, -1, 0, 2]
+  T = [[2, 15, 24, 18], [25], [77]]
+  widths list = [4, 1, 1] 3
+  S = [[2, 77], [15, 18], [24, 25]]
+  widths list = [2, 2, 2] 3
+  TS = [[2, 77, 15], [18, 24, 25]]
+  widths list = [3, 3] 2
+  genus = 0
+  Wolfarht level = 4
+    representative No. 2
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1], [2, 3]] [0 0 1 0] )
+    representative No. 15
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 2, 3]] [1 0 0 0] )
+    representative No. 18
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 2, 3]] [1 1 1 0] )
+    representative No. 24
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 3, 2]] [1 0 1 0] )
+    representative No. 25
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 3, 2]] [0 1 1 0] )
+    representative No. 77
+    (x,y,eps) = ( [[0], [1], [2, 3]] [[0, 1, 2, 3]] [0 0 1 0] )
+ 
+ 
+ 
+  Component No. 3
+  representatives:  [ 4  6 21 23 41 44 46]
+  index of VG = 7
+  base: (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 2, 3]] [0 1 0 0] )
+  stratum: Q_ 2 [5, -1]
+  T = [[4, 23, 21, 6], [41, 44, 46]]
+  widths list = [4, 3] 2
+  S = [[4, 46], [6, 44], [21, 23], [41]]
+  widths list = [2, 2, 2, 1] 4
+  TS = [[4, 41, 44], [6, 46, 23], [21]]
+  widths list = [3, 3, 1] 3
+  genus = 0
+  Wolfarht level = 12
+    representative No. 4
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 2, 3]] [0 1 0 0] )
+    representative No. 6
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 2, 3]] [0 1 1 0] )
+    representative No. 21
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 3, 2]] [1 0 0 0] )
+    representative No. 23
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 3, 2]] [0 0 1 0] )
+    representative No. 41
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1, 2], [3]] [0 1 0 0] )
+    representative No. 44
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1, 2, 3]] [0 1 0 0] )
+    representative No. 46
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1, 2, 3]] [0 1 1 0] )
+ 
+ 
+ 
+  Component No. 4
+  representatives:  [ 5  7 12 16 39 45 47 54 59]
+  index of VG = 9
+  base: (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 2, 3]] [0 0 1 0] )
+  stratum: Q_ 1 [1, -1, 1, -1]
+  T = [[5, 16, 7, 12], [39, 45, 47], [54, 59]]
+  widths list = [4, 3, 2] 3
+  S = [[5, 47], [7, 45], [12, 59], [16], [39, 54]]
+  widths list = [2, 2, 2, 1, 2] 5
+  TS = [[5, 39, 59], [7, 47, 16], [12, 54, 45]]
+  widths list = [3, 3, 3] 3
+  genus = 0
+  Wolfarht level = 12
+    representative No. 5
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 2, 3]] [0 0 1 0] )
+    representative No. 7
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 2, 3]] [0 1 0 1] )
+    representative No. 12
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1], [2, 3]] [1 0 0 0] )
+    representative No. 16
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 2, 3]] [1 1 0 0] )
+    representative No. 39
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1], [2, 3]] [0 0 1 0] )
+    representative No. 45
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1, 2, 3]] [0 0 1 0] )
+    representative No. 47
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1, 2, 3]] [0 1 0 1] )
+    representative No. 54
+    (x,y,eps) = ( [[0, 1], [2, 3]] [[0], [1, 2, 3]] [0 0 1 0] )
+    representative No. 59
+    (x,y,eps) = ( [[0, 1], [2, 3]] [[0, 1, 2, 3]] [1 0 0 0] )
+ 
+ 
+ 
+  Component No. 5
+  representatives:  [ 9 11 52 58 78 79]
+  index of VG = 6
+  base: (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 3], [2]] [0 0 0 0] )
+  stratum: A_ 2 [2, 2]
+  T = [[9, 11], [52, 58], [78, 79]]
+  widths list = [2, 2, 2] 3
+  S = [[9, 79], [11, 58], [52, 78]]
+  widths list = [2, 2, 2] 3
+  TS = [[9, 78, 58], [11, 52, 79]]
+  widths list = [3, 3] 2
+  genus = 0
+  Wolfarht level = 2
+    representative No. 9
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 3], [2]] [0 0 0 0] )
+    representative No. 11
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1], [2, 3]] [0 0 0 0] )
+    representative No. 52
+    (x,y,eps) = ( [[0, 1], [2, 3]] [[0], [1, 2], [3]] [0 0 0 0] )
+    representative No. 58
+    (x,y,eps) = ( [[0, 1], [2, 3]] [[0, 1, 2, 3]] [0 0 0 0] )
+    representative No. 78
+    (x,y,eps) = ( [[0], [1], [2, 3]] [[0, 2], [1, 3]] [0 0 0 0] )
+    representative No. 79
+    (x,y,eps) = ( [[0], [1], [2, 3]] [[0, 2, 1, 3]] [0 0 0 0] )
+ 
+ 
+ 
+  Component No. 6
+  representatives:  [10 22 26 28 64 80]
+  index of VG = 6
+  base: (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 3], [2]] [0 1 0 0] )
+  stratum: Q_ 2 [2, 2]
+  T = [[10, 26, 28, 22], [64], [80]]
+  widths list = [4, 1, 1] 3
+  S = [[10, 80], [22, 26], [28, 64]]
+  widths list = [2, 2, 2] 3
+  TS = [[10, 80, 26], [22, 28, 64]]
+  widths list = [3, 3] 2
+  genus = 0
+  Wolfarht level = 4
+    representative No. 10
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0], [1, 3], [2]] [0 1 0 0] )
+    representative No. 22
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 3, 2]] [1 1 0 0] )
+    representative No. 26
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 3, 2]] [0 0 1 1] )
+    representative No. 28
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 2], [1, 3]] [1 0 0 0] )
+    representative No. 64
+    (x,y,eps) = ( [[0, 1], [2, 3]] [[0, 2, 1, 3]] [1 0 0 0] )
+    representative No. 80
+    (x,y,eps) = ( [[0], [1], [2, 3]] [[0, 2, 1, 3]] [0 0 1 0] )
+ 
+ 
+ 
+  Component No. 7
+  representatives:  [13 17 60]
+  index of VG = 3
+  base: (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1], [2, 3]] [1 0 1 0] )
+  stratum: Q_ 0 [-1, -1, -1, -1, 0, 0]
+  T = [[13, 17], [60]]
+  widths list = [2, 1] 2
+  S = [[13, 60], [17]]
+  widths list = [2, 1] 2
+  TS = [[13, 60, 17]]
+  widths list = [3] 1
+  genus = 0
+  Wolfarht level = 2
+    representative No. 13
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1], [2, 3]] [1 0 1 0] )
+    representative No. 17
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 1, 2, 3]] [1 0 1 0] )
+    representative No. 60
+    (x,y,eps) = ( [[0, 1], [2, 3]] [[0, 1, 2, 3]] [1 0 1 0] )
+ 
+ 
+ 
+  Component No. 8
+  representatives:  [29 62 65]
+  index of VG = 3
+  base: (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 2], [1, 3]] [1 1 0 0] )
+  stratum: Q_ 2 [2, 2]
+  T = [[29], [62, 65]]
+  widths list = [1, 2] 2
+  S = [[29, 65], [62]]
+  widths list = [2, 1] 2
+  TS = [[29, 62, 65]]
+  widths list = [3] 1
+  genus = 0
+  Wolfarht level = 2
+    representative No. 29
+    (x,y,eps) = ( [[0, 1, 2, 3]] [[0, 2], [1, 3]] [1 1 0 0] )
+    representative No. 62
+    (x,y,eps) = ( [[0, 1], [2, 3]] [[0, 2], [1, 3]] [1 0 0 0] )
+    representative No. 65
+    (x,y,eps) = ( [[0, 1], [2, 3]] [[0, 2, 1, 3]] [1 0 1 0] )
+ 
+ 
+ 
+  Component No. 9
+  representatives:  [38 40 42 53]
+  index of VG = 4
+  base: (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1], [2, 3]] [0 0 0 0] )
+  stratum: A_ 2 [2, 2]
+  T = [[38, 42, 40], [53]]
+  widths list = [3, 1] 2
+  S = [[38, 53], [40, 42]]
+  widths list = [2, 2] 2
+  TS = [[38, 53, 42], [40]]
+  widths list = [3, 1] 2
+  genus = 0
+  Wolfarht level = 3
+    representative No. 38
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1], [2, 3]] [0 0 0 0] )
+    representative No. 40
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1, 2], [3]] [0 0 0 0] )
+    representative No. 42
+    (x,y,eps) = ( [[0], [1, 2, 3]] [[0, 1, 2], [3]] [0 1 1 0] )
+    representative No. 53
+    (x,y,eps) = ( [[0, 1], [2, 3]] [[0], [1, 2, 3]] [0 0 0 0] )
+ 
+ 
+ 
+  Component No. 10
+  representatives:  [61]
+  index of VG = 1
+  base: (x,y,eps) = ( [[0, 1], [2, 3]] [[0, 2], [1, 3]] [0 0 0 0] )
+  stratum: A_ 1 [0, 0, 0, 0]
+  T = [[61]]
+  widths list = [1] 1
+  S = [[61]]
+  widths list = [1] 1
+  TS = [[61]]
+  widths list = [1] 1
+  genus = 0
+  Wolfarht level = 1
+    representative No. 61
+    (x,y,eps) = ( [[0, 1], [2, 3]] [[0, 2], [1, 3]] [0 0 0 0] )
+ 
+ 
+ 
