@@ -19,4 +19,4 @@ orb2.py calculates a simple version of the result.
  -Research Center for Pure and Applied Mathematics, 
   Graduate School of Information Sciences, 
   Tohoku University, Sendai 980-8579, Japan.  
- -shun.kumagai.p5@dc.tohoku.ac.jp / syun-kuma@jcom.zaq.ne.jp
+ - shun.kumagai.p5@dc.tohoku.ac.jp / syun-kuma@jcom.zaq.ne.jp
