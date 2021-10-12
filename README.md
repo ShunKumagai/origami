@@ -20,3 +20,7 @@ orb2.py calculates a simple version of the result.
   Graduate School of Information Sciences, 
   Tohoku University, Sendai 980-8579, Japan.  
  - shun.kumagai.p5@dc.tohoku.ac.jp / syun-kuma@jcom.zaq.ne.jp
+
+
+# Thanks
+ The computation was carried out using the computer resource offered under the category of General Projects by Cyber Science Center, Tohoku University.
