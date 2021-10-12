@@ -23,4 +23,4 @@ orb2.py calculates a simple version of the result.
 
 
 # Thanks
- The computation was carried out using the computer resource offered under the category of General Projects by Cyber Science Center, Tohoku University.
+ The computation was carried out using the computer resource offered under the category of General Projects by Cyber Science Center, Tohoku University. (http://www.cc.tohoku.ac.jp/)
