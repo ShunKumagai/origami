@@ -1,5 +1,5 @@
 # origami
-"origami" presents codes and results on computing Teichm\"uller curves (or Veech groups) of origamis.  
+codes and results on computing Teichm\"uller curves (or Veech groups) of origamis.  
 See arXiv:2006.00905(https://arxiv.org/abs/2006.00905) for deatails.  
 
 # Requirement
