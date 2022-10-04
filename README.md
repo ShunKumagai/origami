@@ -9,9 +9,9 @@ Python 3.8.2
 make_origami_dictionary.py calculates the list of isomorphism classes of origamis of given degree (line 172).  
  --> output: data_d=[degree].txt  
 Replace "array" to "np.array" in the txt and rename it data_d=[degree].py.  
-orbit_decomposition.py calculates the orbit decomposition of the T-action and S-action on the set of origamis of given degree (referring data_d=[degree].py).  
+_orbit_decomposition.py calculates the orbit decomposition of the T-action and S-action on the set of origamis of given degree (referring data_d=[degree].py).  
  --> output: result_d=[degree].py  
-orbit_decomposition_simple.py calculates a simple version of the result.  
+_orbit_decomposition_simple.py calculates a simple version of the result.  
  --> output: result2_d=[degree].py  
 
 # Author
