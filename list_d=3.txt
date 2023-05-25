@@ -1,0 +1,18 @@
+Each numbered origami of degree  3  is represented as follows.
+The format is (x,y,\epsilon), where x and y are shown as cycles, and \epsilon is shown as a list with + as 0 and - as 1.
+O_ 0  = ( [[0, 1, 2]] [[0], [1], [2]] [0 0 0] ), abelian= True
+O_ 1  = ( [[0, 1, 2]] [[0], [1, 2]] [0 0 0] ), abelian= True
+O_ 2  = ( [[0, 1, 2]] [[0], [1, 2]] [0 1 0] ), abelian= False
+O_ 3  = ( [[0, 1, 2]] [[0, 1, 2]] [0 0 0] ), abelian= True
+O_ 4  = ( [[0, 1, 2]] [[0, 1, 2]] [1 0 0] ), abelian= False
+O_ 5  = ( [[0, 1, 2]] [[0, 1, 2]] [1 1 0] ), abelian= False
+O_ 6  = ( [[0, 1, 2]] [[0, 1, 2]] [1 1 1] ), abelian= True
+O_ 7  = ( [[0], [1, 2]] [[0], [1], [2]] [0 0 0] ), abelian= True
+O_ 8  = ( [[0], [1, 2]] [[0], [1, 2]] [0 0 0] ), abelian= True
+O_ 9  = ( [[0], [1, 2]] [[0], [1, 2]] [0 1 0] ), abelian= False
+O_ 10  = ( [[0], [1, 2]] [[0, 1], [2]] [0 0 0] ), abelian= True
+O_ 11  = ( [[0], [1, 2]] [[0, 1, 2]] [0 0 0] ), abelian= True
+O_ 12  = ( [[0], [1, 2]] [[0, 1, 2]] [0 1 0] ), abelian= False
+O_ 13  = ( [[0], [1], [2]] [[0], [1], [2]] [0 0 0] ), abelian= True
+O_ 14  = ( [[0], [1], [2]] [[0], [1, 2]] [0 0 0] ), abelian= True
+O_ 15  = ( [[0], [1], [2]] [[0, 1, 2]] [0 0 0] ), abelian= True
